@@ -1,0 +1,109 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.container{
+width: 1500px;
+height: 0px auto;
+
+}
+
+/* Home Page Design */
+
+
+      .menuber{
+        width: 103%;
+        height: 100px;
+        background-color: #112233;
+    
+      }
+
+      .menuber .logo{
+        width: 200px;
+        height: 120px;
+        cursor: pointer;
+        float: left;
+        text-align: center;
+        line-height: 149px;
+
+      }
+
+      .menuber .menuoption{
+        width: 1020px;
+        float: right;
+        line-height: 87px;
+
+      }
+
+      .menuber .menuoption .menulink{
+        width: 780px;
+        float: left;
+        text-align: center;
+
+      }
+      .menuber .menuoption .menulink a{
+        color: white;
+        padding-left: 12px;
+        padding-right: 12px;
+        font-size: 20px;
+        text-decoration: none;
+        padding-right: 20px;
+        padding-bottom: 41px;
+        border-bottom: 5px solid transparent;
+        transition: all 0.5s;
+      }
+      .menuber .menuoption .menulink a:hover{
+        color: #438ff9;
+        border-bottom: 5px solid #438ff9;
+      }
+      .menuber .menuoption .menulink .freeTrial{
+        width: 250px;
+        float: right;
+     }
+      .freeTrial a{
+     border: none;
+     border-radius: 20px 20px;
+     padding: 20px 50px;
+     background-color: #438ff9;
+     color: white;
+     font-size: 25px;
+     transition: all o.5s;
+     }
+     .freeTrial a:hover{
+      color:red;
+  
+      background-color: white;
+      box-shadow: 0px 1px 10px -4px #131313;
+     }
+
+     .div1{
+      clear: both;
+     }
+
+     /* Middle Header Design */
+
+     .headerMiddle{
+
+      margin-top: 30px;
+      margin-left: 50px;
+     }
+    .logo1{
+      float: right;
+    }
+    .home{
+      clear: both;
+    }
+    /* about us start */
+
+
+
+    .alldiv{
+     width: 1500px;
+     height: 0px auto; 
+    }
+    
+      
+
+         
